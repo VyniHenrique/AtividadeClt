@@ -1,8 +1,17 @@
 .container{
-	justify-content: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 
 .menu{
 	margin: 1rem;
 }
+
+.titulo{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
